@@ -1,0 +1,52 @@
+{
+    "blue": {
+         "light": "#6E92BC",
+         "original": "#4E78A8",
+         "dark": "#3E6086"
+        },
+    "orange": {
+        "light": "#F4A556",
+        "original": "#F28D2A",
+        "dark": "#D7720E"
+    },
+    "red": {
+        "light": "#E77878",
+        "original": "#E15757",
+        "dark": "#D42525"
+    },
+    "cyan": {
+        "light": "#91C6C1",
+        "original": "#76B9B2",
+        "dark": "#529F97"
+    },
+    "green": {
+        "light": "#78B96D",
+        "original": "#59A14D",
+        "dark": "#48813E"
+    },
+    "yellow": {
+        "light": "#F0D46F",
+        "original": "#ECC949",
+        "dark": "#E1B618"
+    },
+    "purple": {
+        "light": "#BF94B3",
+        "original": "#AF7BA1",
+        "dark": "#945984"
+    },
+    "pink": {
+        "light": "#FFB1BB",
+        "original": "#FF9DA8",
+        "dark": "#FF4B60"
+    },
+    "brown": {
+        "light": "#B18E7D",
+        "original": "#9D745F",
+        "dark": "#7D5C4B"
+    },
+    "silver": {
+        "light": "#C7C0BC",
+        "original": "#BAB1AC",
+        "dark": "#998C85"
+    }
+}
